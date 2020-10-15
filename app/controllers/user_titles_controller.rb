@@ -1,0 +1,2 @@
+class UserTitlesController < ApplicationController
+end
